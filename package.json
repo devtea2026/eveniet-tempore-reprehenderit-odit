@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/eveniet-tempore-reprehenderit-odit",
-  "version": "5.6.83",
+  "version": "5.6.84",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -105,5 +105,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/eveniet-tempore-reprehenderit-odit/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
